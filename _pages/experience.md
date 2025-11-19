@@ -6,6 +6,8 @@ title: "Experience"
 <div style="font-size: 0.8em; text-align: justify;">
 <ul class="fa-ul">
   <li><i class="fa-li fa fa-spinner fa-spin"></i><b>Postdoctoral Researcher</b> <span style="font-weight: normal;">| IIT Guwahati | Nov 2025 – Present</span></li>
+  
+<li><br/></li>
 
   <li><i class="fa-li fa fa-check-square"></i><b>Assistant Professor</b> <span style="font-weight: normal;">| SOA University | Dec 2023 – Nov 2025 (1.5+ years)</span></li>
   <li><br/></li>
