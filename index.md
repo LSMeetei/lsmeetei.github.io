@@ -11,6 +11,6 @@ I am currently a Postdoctoral Researcher at the Indian Institute of Technology G
 <br><br>
 My work within this area focuses on machine translation (MT) and classification tasks, with a special emphasis on developing solutions for low-resource languages and addressing critical social issues. I am currently extending my work to address challenges in biomedical imaging.
 <br><br>
-<b>Focus:</b> Multimodal AI | From Natural Language Processing to Biomedical Imaging.
+<b>Focus:</b> Multimodal AI | Natural Language Processing | Biomedical Imaging | Image Processing | Low-resource
 
 </div>
