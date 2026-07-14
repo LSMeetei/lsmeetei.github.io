@@ -7,7 +7,7 @@ author_profile: true
 ---
 
 <div style="font-size: 0.75em; text-align: justify;">
-I am currently a Postdoctoral Researcher at the Indian Institute of Technology Guwahati (IIT Guwahati). Previously, I served as an Assistant Professor at SOA University, Bhubaneswar. I hold a PhD in Computer Science and Engineering from NIT Silchar, India, where my research focused on multimodal machine translation (MMT). My research in Artificial Intelligence (AI) and Natural Language Processing (NLP) has centered on developing computational models to understand human language in complex and data-scarce environments.
+I am currently a Postdoctoral Researcher at the Indian Institute of Technology Guwahati ([IIT Guwahati](https://www.iitg.ac.in/)). Previously, I served as an Assistant Professor at [SOA University](https://www.soa.ac.in/iter), Bhubaneswar. I hold a PhD in Computer Science and Engineering from [NIT Silchar](https://www.nits.ac.in/), India, where my research focused on multimodal machine translation (MMT). My research in Artificial Intelligence (AI) and Natural Language Processing (NLP) has centered on developing computational models to understand human language in complex and data-scarce environments.
 <br><br>
 My work within this area focuses on machine translation (MT) and classification tasks, with a special emphasis on developing solutions for low-resource languages and addressing critical social issues. I am currently extending my work to address challenges in speech processing and biomedical imaging.
 <br><br>
