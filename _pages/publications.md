@@ -7,10 +7,10 @@ Journals
 
 <div style="font-size: 0.7em; text-align: justify;">
   <ol style="padding-left: 1.2em;">
-  <li>Meetei, Loitongbam Sanayai, Thoudam Doren Singh, and Sivaji Bandyopadhyay.  “An empirical study of a novel multimodal dataset for low resource machine translation” Knowledge and Information Systems (2024) [SCIE]</li>
-  <li>Meetei, Loitongbam Sanayai, Alok Singh, Thoudam Doren Singh, and Sivaji Bandyopadhyay. "Do cues in a video help in handling rare words in a machine translation system under a low-resource setting?." Natural Language Processing Journal (2023) -Elsevier: 100016.</li>
-  <li>Meetei, Loitongbam Sanayai, Thoudam Doren Singh, and Sivaji Bandyopadhyay. "Exploiting Multiple Correlated Modalities can Enhance Low-Resource Machine Translation Quality" Multimedia Tools and Applications (2023): 1-21. [Scopus]</li>
-  <li>Meetei, Loitongbam Sanayai, Thoudam Doren Singh, Samir Kumar Borgohain, and Sivaji Bandyopadhyay. "Low resource language specific pre-processing and features for sentiment analysis task." Language Resources and Evaluation 55, no. 4 (2021): 947-969. [SCIE]</li>
+  <li>Meetei, Loitongbam Sanayai, Thoudam Doren Singh, and Sivaji Bandyopadhyay.  “An empirical study of a novel multimodal dataset for low resource machine translation” Knowledge and Information Systems (2024) [SCIE] <a href="https://www.scimagojr.com/journalsearch.php?q=15703&tip=sid&clean=0">Q1</a> </li>
+  <li>Meetei, Loitongbam Sanayai, Alok Singh, Thoudam Doren Singh, and Sivaji Bandyopadhyay. "Do cues in a video help in handling rare words in a machine translation system under a low-resource setting?." Natural Language Processing Journal (2023) -Elsevier: 100016. [Scopus] <a href="https://www.scimagojr.com/journalsearch.php?q=21101341269&tip=sid&clean=0">Q1</a>  </li> 
+  <li>Meetei, Loitongbam Sanayai, Thoudam Doren Singh, and Sivaji Bandyopadhyay. "Exploiting Multiple Correlated Modalities can Enhance Low-Resource Machine Translation Quality" Multimedia Tools and Applications (2023): 1-21. [Scopus] <a href="https://www.scimagojr.com/journalsearch.php?q=25627&tip=sid">Q1</a> </li> 
+  <li>Meetei, Loitongbam Sanayai, Thoudam Doren Singh, Samir Kumar Borgohain, and Sivaji Bandyopadhyay. "Low resource language specific pre-processing and features for sentiment analysis task." Language Resources and Evaluation 55, no. 4 (2021): 947-969. [SCIE] <a href="https://www.scimagojr.com/journalsearch.php?q=145663&tip=sid">Q1</a></li>  
   <li>Devi, Chanambam Sveta, Bipul Syam Purkayastha, and Loitongbam Sanayai Meetei. "An empirical study on English-Mizo Statistical Machine Translation with Bible Corpus." International journal of electrical and computer engineering systems 13, no. 9 (2022): 759-765. [Scopus]</li>
 </ol>
 </div>
