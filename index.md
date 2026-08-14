@@ -7,10 +7,10 @@ author_profile: true
 ---
 
 <div style="font-size: 0.75em; text-align: justify;">
-I am currently a Postdoctoral Researcher at the Indian Institute of Technology Guwahati (<a href="https://www.iitg.ac.in/">IIT Guwahati</a>). Previously, I served as an Assistant Professor at <a href="https://www.soa.ac.in/iter">SOA University</a>, Bhubaneswar. I hold a PhD in Computer Science and Engineering from <a href="https://www.nits.ac.in/">NIT Silchar</a>, India, where my research focused on multimodal machine translation (MMT). My research in Artificial Intelligence (AI) and Natural Language Processing (NLP) has centered on developing computational models to understand human language in complex and data-scarce environments.
+I am currently a Postdoctoral Researcher at the Indian Institute of Technology Guwahati (<a href="https://www.iitg.ac.in/">IIT Guwahati</a>) under the supervision of <a href="https://www.iitg.ac.in/pkdas/"> Prof. Pradip K Das </a>. Previously, I served as an Assistant Professor at <a href="https://www.soa.ac.in/iter">SOA University</a>, Bhubaneswar. I hold a PhD in Computer Science and Engineering from <a href="https://www.nits.ac.in/">NIT Silchar</a>, India, where my research focused on multimodal machine translation (MMT). My research in Artificial Intelligence (AI) and Natural Language Processing (NLP) has centered on developing computational models to understand human language in complex and data-scarce environments.
 <br><br>
-My work within this area focuses on machine translation (MT) and classification tasks, with a special emphasis on developing solutions for low-resource languages and addressing critical social issues. I am currently extending my work to address challenges in speech processing and biomedical imaging.
+My work within this area focuses on machine translation (MT) and classification tasks, with a special emphasis on developing solutions for low-resource languages and addressing critical social issues. I am currently extending my work to address challenges in speech processing, language technology and biomedical imaging.
 <br><br>
-<b>Focus:</b> Multimodal AI | Natural Language Processing | Speech Processing | Biomedical Imaging | Image Processing | Low-resource
+<b>Focus:</b> Multimodal AI | Natural Language Processing | Speech Processing | Biomedical Imaging | Image Processing | Low-resource language technology
 
 </div>
